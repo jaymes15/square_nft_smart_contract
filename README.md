@@ -1,8 +1,8 @@
-# Basic Sample Hardhat Project
+# Square NTF Smart Contract
 
-This project demonstrates a basic Hardhat use case. It comes with a sample contract, a test for that contract, a sample script that deploys that contract, and an example of a task implementation, which simply lists the available accounts.
+Mints Square NTFs.
 
-Try running some of the following tasks:
+Commands:
 
 ```shell
 npx hardhat accounts
@@ -16,6 +16,6 @@ npx hardhat help
 
 
 RINKEBY NETWORK:
- - contract address: 0xA6F276dA3ae19E8a32Ea1F4833725807eecf0Bf7
+ - contract address: 0x0f8f64EB8e60f81Dd78B4a12A5952394F711eEc5
 
- - Link to contract details on etherscan: https://rinkeby.etherscan.io/address/0xA6F276dA3ae19E8a32Ea1F4833725807eecf0Bf7
+ - Link to contract details on etherscan: https://rinkeby.etherscan.io/address/0x0f8f64EB8e60f81Dd78B4a12A5952394F711eEc5
